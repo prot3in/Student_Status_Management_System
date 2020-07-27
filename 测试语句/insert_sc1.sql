@@ -1,0 +1,16 @@
+insert into sc(term,sno,cno) values(1,'18180100062','111')
+insert into sc(term,sno,cno) values(1,'18180100062','121')
+insert into sc(term,sno,cno) values(1,'18180100062','131')
+insert into sc(term,sno,cno) values(1,'18180100062','112')
+insert into sc(term,sno,cno) values(1,'18180100062','122')
+insert into sc(term,sno,cno) values(1,'18180100062','113')
+insert into sc(term,sno,cno) values(1,'18180100062','123')
+insert into sc(term,sno,cno) values(2,'18180100062','211')
+insert into sc(term,sno,cno) values(2,'18180100062','221')
+insert into sc(term,sno,cno) values(2,'18180100062','231')
+insert into sc(term,sno,cno) values(2,'18180100062','212')
+insert into sc(term,sno,cno) values(2,'18180100062','222')
+insert into sc(term,sno,cno) values(2,'18180100062','213')
+insert into sc(term,sno,cno) values(2,'18180100062','223')
+
+
